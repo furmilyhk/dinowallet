@@ -88,6 +88,17 @@ not by us:
   developers in iOS Settings. Those come from Apple, are aggregated, and
   contain no ledger data.
 
+## Face ID
+
+The app lock is optional and off unless you turn it on. It uses Apple's
+LocalAuthentication, which means the app asks the system whether it is you and
+receives a single yes or no.
+
+DinoWallet never receives, sees or stores any biometric data. Your face data
+stays in the Secure Enclave on your device; there is no interface that would
+let an app read it, and we hold none of it. Nothing biometric is collected,
+which is why none is declared.
+
 ## Analytics and advertising
 
 There are none. No third-party analytics, no advertising identifiers, no
