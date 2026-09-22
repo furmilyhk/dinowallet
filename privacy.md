@@ -44,17 +44,19 @@ that book. That sharing also runs through your iCloud account.
 DinoWallet can show the price of shares you choose to follow. This is the only
 part of the app that makes a network request.
 
-**The app starts with one market index on the list** — the Hang Seng in Hong
-Kong, and the equivalent local index elsewhere — so that the feature is
-visible rather than hidden behind an empty screen. That means when you open
-the app it asks the price service for that index.
+**The app starts with three things on the list** — your local market index,
+a broad tracker fund, and the largest company on that market. In Hong Kong
+that is the Hang Seng, the Tracker Fund and Tencent. They are there so the
+feature is visible rather than hidden behind an empty screen, which means that
+when you open the app it asks the price service about those three.
 
 If you would rather it did not, either remove the index from your list or turn
 the feature off in Settings ▸ Markets ▸ *Show share prices*. With an empty list,
 or the switch off, the app makes no request at all.
 
-We chose an index rather than any company's shares deliberately: an index is a
-measure, not a recommendation, and this app does not pick investments for you.
+These are starting points, not recommendations. DinoWallet gives no investment
+advice and has nothing to sell you — remove any of them, or all three, and the
+app will not put them back.
 
 When it is on, the app asks a public price service — Yahoo Finance's chart
 endpoint at `query1.finance.yahoo.com` — for the shares on your list.
