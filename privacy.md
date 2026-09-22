@@ -42,11 +42,14 @@ that book. That sharing also runs through your iCloud account.
 ## Share prices, the one thing that leaves the device
 
 DinoWallet can show the price of shares you choose to follow. This is the only
-part of the app that makes a network request, and it is **off by default**.
+part of the app that makes a network request.
 
-Nothing is requested until two things are true: you have turned on *Show share
-prices* in Settings ▸ Markets, and you have added at least one share. If either
-is missing, the app makes no request at all.
+**Nothing is requested until you add a share.** Your list starts empty, and an
+empty list means no request is made — so if you never add one, the app never
+contacts anyone. Adding a share is the point at which you choose this.
+
+You can also switch the whole feature off in Settings ▸ Markets ▸ *Show share
+prices*, which stops it whatever is on your list.
 
 When it is on, the app asks a public price service — Yahoo Finance's chart
 endpoint at `query1.finance.yahoo.com` — for the shares on your list.
