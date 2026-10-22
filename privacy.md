@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**DinoWallet 恐龍記帳** · last updated 22 September 2026
+**DinoWallet 恐龍記帳** · last updated 23 October 2026
 
 ## The short version
 
@@ -9,8 +9,9 @@ entries, receipts, balances and attachments are stored on your iPhone and, if
 you turn on iCloud, in your own private iCloud account. We have no server
 that your figures pass through and no way to read them.
 
-There is one feature that reaches the internet, and it is off until you turn
-it on: **share prices**. It is described in full below.
+There is one feature that reaches the internet: **share prices**. It starts
+with a short list of market indices, and you can turn it off in Settings. It is
+described in full below.
 
 ## What stays on the device
 
@@ -18,6 +19,7 @@ Everything you type, say, photograph or import:
 
 - entries, bills, budgets, standing items and categories
 - accounts, balances and the readings behind the net-worth line
+- the dinosaur meadow, your daily check-in streak, your coins and what you spent them on
 - photographs and PDFs attached to an entry
 - the text read off a receipt
 
@@ -44,18 +46,18 @@ that book. That sharing also runs through your iCloud account.
 DinoWallet can show the price of shares you choose to follow. This is the only
 part of the app that makes a network request.
 
-**The app starts with three things on the list** — your local market index,
-a broad tracker fund, and the largest company on that market. In Hong Kong
-that is the Hang Seng, the Tracker Fund and Tencent. They are there so the
-feature is visible rather than hidden behind an empty screen, which means that
-when you open the app it asks the price service about those three.
+**The app starts with a short list** — your local market index and a broad
+tracker fund, never a single company. In Hong Kong that is the Hang Seng Index,
+the Tracker Fund and the Hang Seng China Enterprises Index. They are there so
+the feature is visible rather than hidden behind an empty screen, which means
+that when you open the app it asks the price service about them.
 
 If you would rather it did not, either remove the index from your list or turn
 the feature off in Settings ▸ Markets ▸ *Show share prices*. With an empty list,
 or the switch off, the app makes no request at all.
 
 These are starting points, not recommendations. DinoWallet gives no investment
-advice and has nothing to sell you — remove any of them, or all three, and the
+advice and has nothing to sell you — remove any of them, or all of them, and the
 app will not put them back.
 
 When it is on, the app asks a public price service — Yahoo Finance's chart

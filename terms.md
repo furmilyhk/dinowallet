@@ -1,6 +1,6 @@
 # Terms of Use
 
-**DinoWallet 恐龍記帳** · last updated 21 September 2026
+**DinoWallet 恐龍記帳** · last updated 23 October 2026
 
 By using DinoWallet you agree to these terms. They sit alongside Apple's
 [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/),
@@ -15,15 +15,17 @@ devices you own or control, as allowed by the App Store Terms of Service.
 
 DinoWallet is free to use. **DinoWallet Pro** unlocks unlimited receipt
 reading, importing whole statements at once, voice entry at the member rate,
-and more than one book.
+more than one book, sharing your books with family, more than five accounts
+and assets, exporting your entries as a CSV file, and adopting more than three
+dinosaurs for the meadow.
 
 It is sold three ways:
 
 | | Length | Price (Hong Kong) |
 |---|---|---|
 | Monthly | 1 month, renewing | HK$18 |
-| Yearly | 1 year, renewing | HK$128 |
-| Permanent | paid once | HK$198 |
+| Yearly | 1 year, renewing | HK$148 |
+| Permanent | paid once | HK$388 |
 
 Prices in other countries are set from these by Apple and shown in your own
 currency before you buy.
@@ -38,6 +40,14 @@ The permanent unlock is a one-off purchase and does not renew.
 
 Payment is taken by Apple. Refunds are handled by Apple under the App Store
 Terms of Service; we cannot issue them.
+
+## Coins and the meadow
+
+The dinosaur meadow, the daily check-in and the coins are part of the free app.
+Coins are points you earn by checking in once a day. They have no value in
+money, cannot be bought, sold, traded or cashed out, and are spent only on the
+dinosaurs, food and decorations inside the app. They are kept on your device,
+and are lost if you delete the app.
 
 ## What the app does and does not promise
 
