@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**DinoWallet 恐龍記帳** · last updated 23 October 2026
+**DinoWallet 恐龍記帳** · last updated 24 October 2026
 
 ## The short version
 
@@ -9,9 +9,9 @@ entries, receipts, balances and attachments are stored on your iPhone and, if
 you turn on iCloud, in your own private iCloud account. We have no server
 that your figures pass through and no way to read them.
 
-There is one feature that reaches the internet: **share prices**. It starts
-with a short list of market indices, and you can turn it off in Settings. It is
-described in full below.
+DinoWallet makes no network requests of its own: nothing is sent to us or to
+any other company. The only network use is Apple's — iCloud sync if you leave
+it on, and App Store purchases.
 
 ## What stays on the device
 
@@ -40,45 +40,6 @@ everything on one device.
 
 If you share a book with family, the people you invite can read and add to
 that book. That sharing also runs through your iCloud account.
-
-## Share prices, the one thing that leaves the device
-
-DinoWallet can show the price of shares you choose to follow. This is the only
-part of the app that makes a network request.
-
-**The app starts with a short list** — your local market index and a broad
-tracker fund, never a single company. In Hong Kong that is the Hang Seng Index,
-the Tracker Fund and the Hang Seng China Enterprises Index. They are there so
-the feature is visible rather than hidden behind an empty screen, which means
-that when you open the app it asks the price service about them.
-
-If you would rather it did not, either remove the index from your list or turn
-the feature off in Settings ▸ Markets ▸ *Show share prices*. With an empty list,
-or the switch off, the app makes no request at all.
-
-These are starting points, not recommendations. DinoWallet gives no investment
-advice and has nothing to sell you — remove any of them, or all of them, and the
-app will not put them back.
-
-When it is on, the app asks a public price service — Yahoo Finance's chart
-endpoint at `query1.finance.yahoo.com` — for the shares on your list.
-
-**What is sent:** the ticker symbol, for example `0700.HK`. That is all. When
-you search for a share to add, the words you type in the search box are sent
-so that matches can be returned.
-
-**What is never sent:** how many shares you own, what you paid, the value of
-your holdings, or any other figure from your books. No name, no email, no
-account, no advertising identifier, and no cookies — the request is made
-without them.
-
-The price service will see the request arriving from your internet connection,
-as any website you visit would. We do not receive the request, cannot see it,
-and keep no record of it. Your use of that service is subject to Yahoo's own
-terms and privacy policy.
-
-Turning the switch off stops it completely. Removing every share from your
-list has the same effect.
 
 ## What we do receive
 
