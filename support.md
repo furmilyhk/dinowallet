@@ -2,8 +2,16 @@
 
 **DinoWallet 恐龍記帳**
 
-Something wrong, or something missing? Open an issue:
-<https://github.com/furmilyhk/dinowallet/issues>
+Something wrong, or stuck setting it up? Email us — tell us which step
+stopped you and we'll walk you through it:
+
+**[dinowallet.cs@gmail.com](mailto:dinowallet.cs@gmail.com)**
+
+有問題或者設定唔到？電郵 dinowallet.cs@gmail.com，話我哋知卡喺邊一步。
+
+Setup steps and videos: <https://dinowallet-phi.vercel.app/#setup>
+
+You can also open an issue: <https://github.com/furmilyhk/dinowallet/issues>
 
 ## Common questions
 
